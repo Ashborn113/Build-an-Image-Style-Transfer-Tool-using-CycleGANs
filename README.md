@@ -6,4 +6,3 @@ Mentee assignment from IBM Advance AI Infinite Learning
 Name: Muhammad Hadi Khairullah\
 Program: IBM Advance AI\
 Personal Mentor : Ichsan Takwa
-Author : Sina Nazeri
